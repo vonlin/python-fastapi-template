@@ -26,3 +26,5 @@ dist/
 
 # Ruff
 **/.ruff_cache
+
+app.log
